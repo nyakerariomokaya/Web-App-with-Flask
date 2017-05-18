@@ -1,0 +1,45 @@
+INSTALL PIP
+ 		sudo easy_install pip
+
+
+INSTALL VIRTUAL ENVIRONMENT
+   		sudo pip install virtualenv
+
+ INSTALL FLASK
+ 		pip install flask
+ 		#comes with Jinja - templating ninja!
+
+
+INSTALL WTFORMS : for making flask forms which are easier to validate input
+ 
+ 		 pip install flask-wtf
+
+INSTALL PASSLIB :for password encryption
+	
+		pip install passlib
+
+INSTALL MYSQLdb  : python wrapper around mySQL
+		
+		sudo apt-get python-MySQLdb /
+		sudo pip install MySQL-python for all MySQL libraries
+
+		ON UBUNTU USE:
+				apt-get install build-essential python-dev libmysqlclient-dev
+
+
+
+USE GC : python garbage collector to release memory after database transactions
+
+INSTALL FLASK-EXCEL : for downloading customer information in xls format
+		
+		pip install Flask-Excel
+
+DOWNLOAD BOOSTRAP FILES
+
+   		getbootsrap.com
+
+INSTALL MY SQL
+
+		pip install MySQL-python
+
+
